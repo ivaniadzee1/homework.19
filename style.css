@@ -5,7 +5,7 @@
     box-sizing: border-box;
 }
 body{
-    background-image: url(./images/stars.svg);
+    background-image: url(./image/stars.svg);
     background-repeat: no-repeat;
     background-size: cover;
     font-family: 'Red Hat Text';
